@@ -33,7 +33,6 @@ h1 {
   font-size: 3.73vw;
   font-weight: 600;
   color: #4e5150;
-  height: 5vw;
   margin-top: 2.99vw;
 }
 
@@ -45,7 +44,6 @@ h2 {
 }
 
 #stats-list {
-  margin: 3.2vw auto 0 auto;
   margin-top: 3.2vw;
   display: flex;
   flex-direction: row;
@@ -64,7 +62,6 @@ h2 {
 
 h3 {
   margin-top: auto;
-  height: 4.27vw;
   font-size: 3.2vw;
   font-weight: 600;
   color: #4e5150;
@@ -76,9 +73,9 @@ h3 {
   margin-bottom: auto;
 }
 
-main>ul {
-    margin-top: 10.4vw;
-    list-style-type: none;
+main > ul {
+  margin-top: 10.4vw;
+  list-style-type: none;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
@@ -123,10 +120,10 @@ main img {
 }
 
 footer {
-    color: #B9BDCF;
-    margin-top: 11.73vw;
-    margin-bottom: 6.4vw;
-    text-align: center;
-    font-weight: 500;
-    font-size: 3.7vw;;
-  }
+  color: #b9bdcf;
+  margin-top: 11.73vw;
+  margin-bottom: 6.4vw;
+  text-align: center;
+  font-weight: 500;
+  font-size: 3.7vw;
+}
