@@ -23,7 +23,7 @@ header {
   align-items: center;
 }
 
-header > img {
+header>img {
   width: 27vw;
   height: auto;
   border-radius: 4.27vw;
@@ -73,7 +73,7 @@ h3 {
   margin-bottom: auto;
 }
 
-main > ul {
+main>ul {
   margin-top: 10.4vw;
   list-style-type: none;
   display: grid;
