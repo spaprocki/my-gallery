@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://spaprocki.github.io/hosted-assets/my-gallery.PNG)
+![screenshot](https://spaprocki.github.io/hosted-assets/my-gallery-screenshot.PNG)
 
 To complete this challenge, I've used the same method, as for the completion of the previous one - I've bound elements' sizes with viewport width. Respective sizes were represented in .css files in vw units.
 
